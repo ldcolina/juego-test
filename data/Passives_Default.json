@@ -1,0 +1,334 @@
+[
+  {
+    "id": "archersEffigy",
+    "combination": [],
+    "unlock": 2
+  },
+  {
+    "id": "artificialHeart",
+    "combination": [],
+    "unlock": 0
+  },
+  {
+    "id": "babyRattle",
+    "combination": [],
+    "unlock": 0
+  },
+  {
+    "id": "bandageRoll",
+    "combination": [],
+    "unlock": 0
+  },
+  {
+    "id": "bottledTornado",
+    "combination": [],
+    "unlock": 0
+  },
+  {
+    "id": "breastplate",
+    "combination": [],
+    "unlock": 0
+  },
+  {
+    "id": "crownOfThorns",
+    "combination": [],
+    "unlock": 0
+  },
+  {
+    "id": "cursedElixir",
+    "combination": [],
+    "unlock": 1
+  },
+  {
+    "id": "deadeyesAmulet",
+    "combination": [],
+    "unlock": 3
+  },
+  {
+    "id": "diamondHiltedDagger",
+    "combination": [],
+    "unlock": 0
+  },
+  {
+    "id": "dynamite",
+    "combination": [],
+    "unlock": 6
+  },
+  {
+    "id": "emeraldHiltedDagger",
+    "combination": [],
+    "unlock": 0
+  },
+  {
+    "id": "etherealCloak",
+    "combination": [],
+    "unlock": 0
+  },
+  {
+    "id": "everflowingGoblet",
+    "combination": [],
+    "unlock": 0
+  },
+  {
+    "id": "eyeOfTheBeholder",
+    "combination": [],
+    "unlock": 0
+  },
+  {
+    "id": "fleetFeet",
+    "combination": [],
+    "unlock": 0
+  },
+  {
+    "id": "frozenSpike",
+    "combination": [],
+    "unlock": 0
+  },
+  {
+    "id": "gemspring",
+    "combination": [],
+    "unlock": 6
+  },
+  {
+    "id": "ghostlyCorset",
+    "combination": [],
+    "unlock": 7
+  },
+  {
+    "id": "ghostlyShield",
+    "combination": [],
+    "unlock": 7
+  },
+  {
+    "id": "goldenBull",
+    "combination": [],
+    "unlock": 2
+  },
+  {
+    "id": "handFan",
+    "combination": [],
+    "unlock": 5
+  },
+  {
+    "id": "handMirror",
+    "combination": [],
+    "unlock": 5
+  },
+  {
+    "id": "healersEffigy",
+    "combination": [],
+    "unlock": 2
+  },
+  {
+    "id": "hourglass",
+    "combination": [],
+    "unlock": 0
+  },
+  {
+    "id": "kissOfDeath",
+    "combination": [],
+    "unlock": 0
+  },
+  {
+    "id": "loversQuiver",
+    "combination": [],
+    "unlock": 5
+  },
+  {
+    "id": "magicStaff",
+    "combination": [],
+    "unlock": 0
+  },
+  {
+    "id": "magnet",
+    "combination": [],
+    "unlock": 0
+  },
+  {
+    "id": "midnightOil",
+    "combination": [],
+    "unlock": 0
+  },
+  {
+    "id": "pressureValve",
+    "combination": [],
+    "unlock": 1
+  },
+  {
+    "id": "protectiveCharm",
+    "combination": [],
+    "unlock": 4
+  },
+  {
+    "id": "radiantFeather",
+    "combination": [],
+    "unlock": 0
+  },
+  {
+    "id": "reachersSpear",
+    "combination": [],
+    "unlock": 0
+  },
+  {
+    "id": "rubberHeadband",
+    "combination": [],
+    "unlock": 0
+  },
+  {
+    "id": "rubyHiltedDagger",
+    "combination": [],
+    "unlock": 0
+  },
+  {
+    "id": "sapphireHiltedDagger",
+    "combination": [],
+    "unlock": 0
+  },
+  {
+    "id": "shortbow",
+    "combination": [],
+    "unlock": 0
+  },
+  {
+    "id": "silverBlindfold",
+    "combination": [],
+    "unlock": 3
+  },
+  {
+    "id": "silverBullet",
+    "combination": [],
+    "unlock": 0
+  },
+  {
+    "id": "slingshot",
+    "combination": [],
+    "unlock": 0
+  },
+  {
+    "id": "spikedCollar",
+    "combination": [],
+    "unlock": 4
+  },
+  {
+    "id": "stoneEffigy",
+    "combination": [],
+    "unlock": 0
+  },
+  {
+    "id": "traitorsCowl",
+    "combination": [],
+    "unlock": 7
+  },
+  {
+    "id": "turret",
+    "combination": [],
+    "unlock": 0
+  },
+  {
+    "id": "upturnedHatchet",
+    "combination": [],
+    "unlock": 0
+  },
+  {
+    "id": "vampiricSword",
+    "combination": [],
+    "unlock": 3
+  },
+  {
+    "id": "voodooDoll",
+    "combination": [],
+    "unlock": 1
+  },
+  {
+    "id": "wagonWheel",
+    "combination": [],
+    "unlock": 6
+  },
+  {
+    "id": "warHorn",
+    "combination": [],
+    "unlock": 0
+  },
+  {
+    "id": "wretchedOnion",
+    "combination": [],
+    "unlock": 4
+  },
+  {
+    "id": "cornucopia",
+    "combination": [ "babyRattle", "warHorn" ],
+    "unlock": 0
+  },
+  {
+    "id": "graciousImpaler",
+    "combination": [ "reachersSpear", "deadeyesAmulet" ],
+    "unlock": 0
+  },
+  {
+    "id": "odoferousShell",
+    "combination": [ "wretchedOnion", "breastplate" ],
+    "unlock": 0
+  },
+  {
+    "id": "phantomRegalia",
+    "combination": [ "ghostlyCorset", "etherealCloak" ],
+    "unlock": 0
+  },
+  {
+    "id": "soulReaver",
+    "combination": [ "vampiricSword", "everflowingGoblet" ],
+    "unlock": 0
+  },
+  {
+    "id": "tormentorsMask",
+    "combination": [ "spikedCollar", "crownOfThorns" ],
+    "unlock": 0
+  },
+  {
+    "id": "wingsOfTheAnointed",
+    "combination": [ "radiantFeather", "fleetFeet" ],
+    "unlock": 0
+  },
+  {
+    "id": "deadeyesCross",
+    "combination": [ "diamondHiltedDagger", "sapphireHiltedDagger", "rubyHiltedDagger", "emeraldHiltedDagger" ],
+    "unlock": 0
+  },
+
+
+  {
+    "id": "ironOnesie",
+    "combination": [],
+    "unlock": 0
+  },
+  {
+    "id": "swordBreaker",
+    "combination": [],
+    "unlock": 0
+  },
+  {
+    "id": "argentStopwatch",
+    "combination": [ "hourglass", "silverBullet" ],
+    "unlock": 0
+  },
+  {
+    "id": "arrowOfFate",
+    "combination": [ "loversQuiver", "handMirror" ],
+    "unlock": 0
+  },
+  {
+    "id": "deadeyesImpaler",
+    "combination": [ "deadeyesCross", "graciousImpaler" ],
+    "unlock": 0
+  },
+  {
+    "id": "fullMetalRapier",
+    "combination": [ "ironOnesie", "swordBreaker" ],
+    "unlock": 0
+  },
+  {
+    "id": "grotesqueArtillery",
+    "combination": [ "turret", "handFan" ],
+    "unlock": 0
+  }
+]

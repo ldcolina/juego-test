@@ -1,0 +1,557 @@
+[
+  {
+    "id": "bleed",
+    "combination": [],
+    "unlock": 0
+  },
+  {
+    "id": "broodMother",
+    "combination": [],
+    "unlock": 0
+  },
+  {
+    "id": "burn",
+    "combination": [],
+    "unlock": 0
+  },
+  {
+    "id": "cell",
+    "combination": [],
+    "unlock": 4
+  },
+  {
+    "id": "charm",
+    "combination": [],
+    "unlock": 7
+  },
+  {
+    "id": "dark",
+    "combination": [],
+    "unlock": 1
+  },
+  {
+    "id": "earthquake",
+    "combination": [],
+    "unlock": 0
+  },
+  {
+    "id": "eggSac",
+    "combination": [],
+    "unlock": 0
+  },
+  {
+    "id": "freeze",
+    "combination": [],
+    "unlock": 0
+  },
+  {
+    "id": "ghost",
+    "combination": [],
+    "unlock": 0
+  },
+  {
+    "id": "iron",
+    "combination": [],
+    "unlock": 0
+  },
+  {
+    "id": "laserHorizontal",
+    "combination": [],
+    "unlock": 0
+  },
+  {
+    "id": "laserVertical",
+    "combination": [],
+    "unlock": 0
+  },
+  {
+    "id": "light",
+    "combination": [],
+    "unlock": 3
+  },
+  {
+    "id": "lightning",
+    "combination": [],
+    "unlock": 0
+  },
+  {
+    "id": "poison",
+    "combination": [],
+    "unlock": 0
+  },
+  {
+    "id": "vampire",
+    "combination": [],
+    "unlock": 0
+  },
+  {
+    "id": "wind",
+    "combination": [],
+    "unlock": 0
+  },
+
+  {
+    "id": "assassin",
+    "combination": [ "iron", "ghost" ],
+    "unlock": 0
+  },
+  {
+    "id": "assassin",
+    "combination": [ "iron", "dark" ],
+    "unlock": 0
+  },
+
+
+  {
+    "id": "berserk",
+    "combination": [ "charm", "bleed" ],
+    "unlock": 0
+  },
+  {
+    "id": "berserk",
+    "combination": [ "charm", "burn" ],
+    "unlock": 0
+  },
+
+  {
+    "id": "blackHole",
+    "combination": [ "dark", "sun" ],
+    "unlock": 0
+  },
+  {
+    "id": "blackHole",
+    "combination": [ "time", "sun" ],
+    "unlock": 0
+  },
+
+  {
+    "id": "blizzard",
+    "combination": [ "freeze", "lightning" ],
+    "unlock": 0
+  },
+  {
+    "id": "blizzard",
+    "combination": [ "freeze", "wind" ],
+    "unlock": 0
+  },
+
+  {
+    "id": "bomb",
+    "combination": [ "burn", "iron" ],
+    "unlock": 0
+  },
+
+  {
+    "id": "flash",
+    "combination": [ "lightning", "light" ],
+    "unlock": 0
+  },
+
+  {
+    "id": "flicker",
+    "combination": [ "light", "dark" ],
+    "unlock": 0
+  },
+
+
+  {
+    "id": "freezeRay",
+    "combination": [ "freeze", "laserHorizontal" ],
+    "unlock": 0
+  },
+  {
+    "id": "freezeRay",
+    "combination": [ "freeze", "laserVertical" ],
+    "unlock": 0
+  },
+
+  {
+    "id": "frozenFlame",
+    "combination": [ "burn", "freeze" ],
+    "unlock": 0
+  },
+
+  {
+    "id": "glacier",
+    "combination": [ "freeze", "earthquake" ],
+    "unlock": 0
+  },
+  {
+    "id": "glacier",
+    "combination": [ "freeze", "stone" ],
+    "unlock": 0
+  },
+
+  {
+    "id": "hemorrhage",
+    "combination": [ "bleed", "iron" ],
+    "unlock": 0
+  },
+
+  {
+    "id": "holyLaser",
+    "combination": [ "laserHorizontal", "laserVertical" ],
+    "unlock": 0
+  },
+
+  {
+    "id": "incubus",
+    "combination": [ "charm", "dark" ],
+    "unlock": 0
+  },
+
+
+  {
+    "id": "inferno",
+    "combination": [ "burn", "wind" ],
+    "unlock": 0
+  },
+  {
+    "id": "inferno",
+    "combination": [ "burn", "time" ],
+    "unlock": 0
+  },
+
+  {
+    "id": "laserBeam",
+    "combination": [ "light", "laserHorizontal" ],
+    "unlock": 0
+  },
+  {
+    "id": "laserBeam",
+    "combination": [ "light", "laserVertical" ],
+    "unlock": 0
+  },
+
+  {
+    "id": "leech",
+    "combination": [ "broodMother", "bleed" ],
+    "unlock": 0
+  },
+
+  {
+    "id": "lightningRod",
+    "combination": [ "lightning", "iron" ],
+    "unlock": 0
+  },
+
+
+  {
+    "id": "lovestruck",
+    "combination": [ "charm", "light" ],
+    "unlock": 0
+  },
+  {
+    "id": "lovestruck",
+    "combination": [ "charm", "lightning" ],
+    "unlock": 0
+  },
+  {
+    "id": "lovestruck",
+    "combination": [ "charm", "time" ],
+    "unlock": 0
+  },
+
+  {
+    "id": "maggot",
+    "combination": [ "cell", "broodMother" ],
+    "unlock": 0
+  },
+
+  {
+    "id": "magma",
+    "combination": [ "burn", "earthquake" ],
+    "unlock": 0
+  },
+
+  {
+    "id": "mosquitoKing",
+    "combination": [ "vampire", "broodMother" ],
+    "unlock": 0
+  },
+
+  {
+    "id": "mosquitoSwarm",
+    "combination": [ "vampire", "eggSac" ],
+    "unlock": 0
+  },
+
+
+  {
+    "id": "noxious",
+    "combination": [ "poison", "wind" ],
+    "unlock": 0
+  },
+  {
+    "id": "noxious",
+    "combination": [ "dark", "wind" ],
+    "unlock": 0
+  },
+
+  {
+    "id": "nuclearBomb",
+    "combination": [ "bomb", "poison" ],
+    "unlock": 0
+  },
+
+  {
+    "id": "overgrowth",
+    "combination": [ "earthquake", "cell" ],
+    "unlock": 0
+  },
+
+  {
+    "id": "phantom",
+    "combination": [ "dark", "ghost" ],
+    "unlock": 0
+  },
+
+  {
+    "id": "radiationBeam",
+    "combination": [ "laserHorizontal", "poison" ],
+    "unlock": 0
+  },
+  {
+    "id": "radiationBeam",
+    "combination": [ "laserHorizontal", "cell" ],
+    "unlock": 0
+  },
+  {
+    "id": "radiationBeam",
+    "combination": [ "laserVertical", "poison" ],
+    "unlock": 0
+  },
+  {
+    "id": "radiationBeam",
+    "combination": [ "laserVertical", "cell" ],
+    "unlock": 0
+  },
+
+  {
+    "id": "sacrifice",
+    "combination": [ "bleed", "dark" ],
+    "unlock": 0
+  },
+
+  {
+    "id": "sandstorm",
+    "combination": [ "earthquake", "wind" ],
+    "unlock": 0
+  },
+  {
+    "id": "sandstorm",
+    "combination": [ "stone", "wind" ],
+    "unlock": 0
+  },
+
+  {
+    "id": "satan",
+    "combination": [ "incubus", "succubus" ],
+    "unlock": 0
+  },
+
+
+  {
+    "id": "shotgun",
+    "combination": [ "iron", "eggSac" ],
+    "unlock": 0
+  },
+
+  {
+    "id": "soulSucker",
+    "combination": [ "vampire", "ghost" ],
+    "unlock": 0
+  },
+
+  {
+    "id": "spiderQueen",
+    "combination": [ "broodMother", "eggSac" ],
+    "unlock": 0
+  },
+
+  {
+    "id": "storm",
+    "combination": [ "lightning", "wind" ],
+    "unlock": 0
+  },
+
+  {
+    "id": "succubus",
+    "combination": [ "charm", "vampire" ],
+    "unlock": 0
+  },
+
+
+  {
+    "id": "sun",
+    "combination": [ "burn", "light" ],
+    "unlock": 0
+  },
+
+  {
+    "id": "swamp",
+    "combination": [ "poison", "earthquake" ],
+    "unlock": 0
+  },
+
+  {
+    "id": "vampireLord",
+    "combination": [ "vampire", "bleed" ],
+    "unlock": 0
+  },
+  {
+    "id": "vampireLord",
+    "combination": [ "vampire", "dark" ],
+    "unlock": 0
+  },
+
+  {
+    "id": "virus",
+    "combination": [ "ghost", "poison" ],
+    "unlock": 0
+  },
+  {
+    "id": "virus",
+    "combination": [ "cell", "poison" ],
+    "unlock": 0
+  },
+
+  {
+    "id": "voluptuousEggSac",
+    "combination": [ "eggSac", "cell" ],
+    "unlock": 0
+  },
+
+  {
+    "id": "wraith",
+    "combination": [ "freeze", "ghost" ],
+    "unlock": 0
+  },
+
+  {
+    "id": "nosferatu",
+    "combination": [ "vampireLord", "spiderQueen", "mosquitoKing" ],
+    "unlock": 0
+  },
+
+
+
+
+
+
+  {
+    "id": "stone",
+    "combination": [],
+    "unlock": 2
+  },
+  {
+    "id": "time",
+    "combination": [],
+    "unlock": 0
+  },
+
+
+
+  {
+    "id": "banishedFlame",
+    "combination": [ "dark", "burn" ],
+    "unlock": 0
+  },
+
+  {
+    "id": "banshee",
+    "combination": [ "phantom", "wraith" ],
+    "unlock": 0
+  },
+  {
+    "id": "brimstone",
+    "combination": [ "stone", "burn" ],
+    "unlock": 0
+  },
+  {
+    "id": "brimstone",
+    "combination": [ "poison", "burn" ],
+    "unlock": 0
+  },
+  {
+    "id": "catapult",
+    "combination": [ "stone", "eggSac" ],
+    "unlock": 0
+  },
+  {
+    "id": "erosion",
+    "combination": [ "time", "wind" ],
+    "unlock": 0
+  },
+  {
+    "id": "fireworks",
+    "combination": [ "burn", "eggSac" ],
+    "unlock": 0
+  },
+  {
+    "id": "heartSwallower",
+    "combination": [ "bleed", "ghost" ],
+    "unlock": 0
+  },
+
+  {
+    "id": "landslide",
+    "combination": [ "stone", "earthquake" ],
+    "unlock": 0
+  },
+  {
+    "id": "laserCutter",
+    "combination": [ "laserHorizontal", "steel" ],
+    "unlock": 0
+  },
+  {
+    "id": "laserCutter",
+    "combination": [ "laserVertical", "steel" ],
+    "unlock": 0
+  },
+
+  {
+    "id": "reaper",
+    "combination": [ "soulSucker", "heartSwallower" ],
+    "unlock": 0
+  },
+  {
+    "id": "sniper",
+    "combination": [ "shotgun", "assassin" ],
+    "unlock": 0
+  },
+  {
+    "id": "steel",
+    "combination": [ "iron", "stone" ],
+    "unlock": 0
+  },
+
+  {
+    "id": "timeBomb",
+    "combination": [ "time", "bomb" ],
+    "unlock": 0
+  },
+  {
+    "id": "timestop",
+    "combination": [ "time", "freeze" ],
+    "unlock": 0
+  },
+
+  {
+    "id": "venom",
+    "combination": [ "poison", "freeze" ],
+    "unlock": 0
+  },
+
+  {
+    "id": "warp",
+    "combination": [ "time", "light" ],
+    "unlock": 0
+  },
+
+  {
+    "id": "xRay",
+    "combination": [ "holyLaser", "laserBeam" ],
+    "unlock": 0
+  }
+]

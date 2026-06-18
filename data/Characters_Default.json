@@ -1,0 +1,23 @@
+[
+  { "id": "warrior",           "unlock": 0 },
+  { "id": "itchyFinger",       "unlock": 1 },
+  { "id": "repentant",         "unlock": 1 },
+  { "id": "cohabitants",       "unlock": 1 },
+  { "id": "embedded",          "unlock": 2 },
+  { "id": "cogitator",         "unlock": 2 },
+  { "id": "emptyNester",       "unlock": 2 },
+  { "id": "shade",             "unlock": 3 },
+  { "id": "makeshiftSisyphus", "unlock": 3 },
+  { "id": "shieldbearer",      "unlock": 4 },
+  { "id": "spendthrift",       "unlock": 4 },
+  { "id": "physicist",         "unlock": 4 },
+  { "id": "juggler",           "unlock": 5 },
+  { "id": "flagellant",        "unlock": 5 },
+  { "id": "tactician",         "unlock": 6 },
+  { "id": "tunneller",         "unlock": 6 },
+  { "id": "tiptoer",           "unlock": 6 },
+  { "id": "radical",           "unlock": 7 },
+  { "id": "falconer",          "unlock": 7 },
+  { "id": "carouser",          "unlock": 8 } ,
+  { "id": "messiah",           "unlock": 0 }
+]
